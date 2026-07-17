@@ -1,0 +1,3 @@
+# Copy to .dev.vars (local) or set as CF Workers secrets (prod)
+PAYMENT_URL=https://your-lnbits.example.com
+LN_API_KEY=your_lnbits_admin_key_here
